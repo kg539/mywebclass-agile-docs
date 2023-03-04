@@ -36,4 +36,4 @@ The project schedule and budget for this initiative will be developed based on t
 Conclusion:
 By implementing this initiative, we can ensure that the MyWebclass website is developed efficiently and effectively, meeting all project objectives, timelines, and requirements. The project plan will identify potential risks and constraints, allowing us to mitigate them proactively and minimize any negative impact on the project's success. With the right tools, team, and planning, we can ensure that the project is completed on time, within budget, and to the highest possible standard.
 # Epic
-1. [Launch MyWebClass] https://github.com/kg539/mywebclass-agile-docs
+1. [Launch MyWebClass] https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Launch%20MyWebClass.md

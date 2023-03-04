@@ -17,3 +17,6 @@ Testing procedures and guidelines are defined and documented, including the crea
 Regular testing activities are conducted throughout the development cycle to identify and report defects and other issues.
 Defects and issues identified during testing are promptly reported and addressed by the development team.
 The testing process is continuously monitored and analyzed to identify patterns and trends, and improve the overall testing process.
+# List Tasks Related to This Theme
+1. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Implement%20google%20anayltics%20code.md
+2. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Implement%20Best%20Practices%20and%20Optimize%20Website%20template%20for%20performance.md

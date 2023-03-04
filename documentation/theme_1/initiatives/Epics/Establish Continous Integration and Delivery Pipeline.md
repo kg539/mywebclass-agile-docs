@@ -23,4 +23,7 @@ A process for continuous monitoring and feedback is established to identify and 
 Best practices for software development are defined and enforced, including coding standards, code review, and testing.
 Security testing is integrated into the continuous integration and delivery pipeline to ensure that the website template is secure and reliable.
 
-
+# List stories related to this epic
+1. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Build%20Process.md
+2. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Performance%20Tests.md
+3. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Testing.md

@@ -49,4 +49,4 @@ Regular training and development opportunities for team members to improve their
 Conclusion:
 By implementing this initiative, we can establish a DevOps process that supports the development of the MyWebClass website template. The DevOps tools and practices implemented will ensure efficient and effective deployment of the website template, while effective collaboration between development and operations teams will ensure that issues are addressed promptly, and the project is completed on time, within budget, and to the highest possible standard. With the right tools, team, and planning, we can ensure that the MyWebClass website template is developed efficiently and effectively.
 1. # Epic
-[Launch MyWebClass] https://github.com/kg539/mywebclass-agile-docs
+[Launch MyWebClass] https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/Establish%20Continous%20Integration%20and%20Delivery%20Pipeline.md

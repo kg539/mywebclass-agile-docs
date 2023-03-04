@@ -13,3 +13,5 @@ The website template can be easily customized to support various types of conten
 Content creation workflows are defined and implemented, with appropriate tools and processes used to create, edit, and publish content on the website.
 The website template is integrated with appropriate content management systems and plugins that allow for easy customization, including the ability to create and manage different types of content.
 The website's customization capabilities are tested and validated to ensure that they meet the needs of content creators and are user-friendly.
+# List Tasks Related to This Theme
+1.  https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/implement%20customizable%20template%20for%20content%20creation.md

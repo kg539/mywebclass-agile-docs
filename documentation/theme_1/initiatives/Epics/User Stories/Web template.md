@@ -15,3 +15,5 @@ The website template has a visually appealing design that aligns with the websit
 The website template is user-friendly and easy to navigate, with a clear and intuitive layout that guides visitors to the content they are looking for.
 The website template is responsive and optimized for mobile devices, with a design that adapts to different screen sizes and resolutions.
 Wireframes and mockups are used to visualize the website template's design and layout before implementation.
+# List Tasks Related to This Theme
+1.  https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Develop%20Visual%20Design%20for%20Web%20Temp.md

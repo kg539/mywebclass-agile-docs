@@ -28,5 +28,5 @@ Google Analytics is installed and configured correctly, and provides insights in
 User testing is conducted and feedback is used to make changes to the website to improve user experience and engagement.
 The website is launched successfully, with ongoing optimizations made to improve performance, user experience, and engagement.
 # List Stories Related to This Epic
-1. [Website Template](https://github.com/kg539/mywebclass-agile-docs/blob/97feaafde8996a136edc8c23810dc7dcc802a21a/documentation/theme_1/initiatives/Epic/User%20Stories/Website_Template.md)
-2. [Website template customization](https://github.com/kg539/mywebclass-agile-docs/blob/97feaafde8996a136edc8c23810dc7dcc802a21a/documentation/theme_1/initiatives/Epic/User%20Stories/Website%20template%20customization.md)
+1. [Website Template](https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Web%20template.md)
+2. [Website template customization](https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Web%20customization.md)

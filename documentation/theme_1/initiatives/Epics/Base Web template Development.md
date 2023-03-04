@@ -21,3 +21,6 @@ The website template complies with all legal and technical requirements, includi
 The website template is search engine friendly and includes proper metadata, structured data, and responsive design to ensure high visibility and ranking on search engine results pages.
 Google Analytics is properly configured to track and measure user behavior on the website template, including page views, bounce rates, user engagement, and conversions.
 The website template is tested and validated to ensure that it meets all legal and technical requirements and functions as intended.
+# List stories Related to This Epic
+1. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Web%20template.md
+2. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Implementation%20on-page%20SEO%20strategies.md

@@ -9,4 +9,7 @@ Acceptance Criteria:
 5. Website speed and performance are optimized, including minimizing page load times and optimizing images.
 6. A comprehensive SEO strategy is developed that includes both on-page and off-page tactics, and is periodically reviewed and updated to ensure continued effectiveness.
 
+# List Tasks related to the theme
+1. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Implement%20on-page%20SEO%20strategies.md
+
 

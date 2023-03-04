@@ -9,3 +9,6 @@ Clean and maintainable code is developed, including HTML, CSS, and JavaScript, t
 Appropriate security measures are implemented to ensure website security, such as input validation and data sanitization.
 Issues and defects identified during testing are promptly addressed by the development team.
 Website performance is continuously monitored and optimized to ensure fast and responsive website performance.
+# List Tasks Related to This Theme
+1. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Implement%20google%20anayltics%20code.md
+2. https://github.com/kg539/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/Epics/User%20Stories/Tasks/Implement%20Best%20Practices%20and%20Optimize%20Website%20template%20for%20performance.md
